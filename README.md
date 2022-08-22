@@ -1,5 +1,11 @@
 # Hi there! I'm Jack 👋
 
+![Jack github stats](https://github-readme-stats.vercel.app/api?username=jcdoran33&theme=dark&layout=compact)
+[![Jack Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdoran33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+*Check out [Anurag Hazra's Github Readme Stats repo here](https://github.com/anuraghazra/github-readme-stats) if you want to add these cards to your profile's Readme!*
+
+
 ### About Me
 - 🔭 I’m currently working on a few Javascript-centric front-end projects
 - 🌱 I’m currently learning Python
